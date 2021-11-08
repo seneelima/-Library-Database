@@ -1,2 +1,2 @@
 # -Library-Database
-Creating a Database using Python and Sqlite for Byte Bootcamp assessment
+Creating a Database using MVC and Sqlite for Phase 1
